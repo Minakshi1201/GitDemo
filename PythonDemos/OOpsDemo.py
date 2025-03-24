@@ -19,6 +19,11 @@ class calculator:
 obj = calculator(3,4)  #object crettion
 obj.getData()
 print(obj.summation())
+print("Hello1")
+print("Hello2")
+
+
+
 
 obj1 = calculator(20,30)  #object crettion
 obj1.getData()
