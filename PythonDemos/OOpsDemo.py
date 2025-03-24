@@ -23,7 +23,8 @@ print("Hello1")
 print("Hello2")
 
 
-
+print("hi")
+print("uvuv")
 
 obj1 = calculator(20,30)  #object crettion
 obj1.getData()
